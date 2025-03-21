@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+}
+
+/* Centraliza e da um espaçamento nas imagens */
+.Thememode {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    gap: 10px;
+}
+
+/* Tira os Botões padrões do radio */
+input[type="radio"] {
+    display: none;
+}
+
+/* Ajusta o tamanho das imagens*/
+.radiolabel img {
+    width: 70px;
+    height: 70px;
+    cursor: pointer; /* Quando colocar o mouse em cima, vira um ponteiro */
+    transition: transform 0.2s ease-in-out;
+}
+
+/* Efeito de "subir" ao passar o mouse */
+.radiolabel img:hover {
+    transform: translateY(-5px); /* Faz a imagem subir */
+}
