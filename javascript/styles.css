@@ -1,74 +1,14 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-
 body {
     font-family: Arial;
-    font-size: 15pt;
-    margin: 0px;
-    height: 100dvh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
-/* Substitui o botão pela imagem */
-#buttonshowpass {
-    background-size: cover;
-    background-color: transparent;
-    border: none;
-    margin-left: 2px;
-    cursor: pointer;
-}
-
-/* Define o tamanho da imagem */
-#buttonimg {
-    height: 25px;
-    width: 25px;
-    vertical-align: middle;
-}
-
-/* Tamanho e borda do input */
-#inputpass {
-    height: 30px;
-    border-radius: 5px;
-}
-
-/* Organiza os itens na div */
-.container {
-    background-color: #dfdfdf;
-    border-radius: 10px;
-    padding: 15px;
-    width: 300px;
-}
-
-/* Dá um espaçamento entre os elementos dentro da div */
-.container > * {
-    margin-bottom: 10px;
-    padding: 2px;
-}
-
-/* Altera a cor do button */
-#definepass {
-    margin-top: 5px;
-    padding: 5px;
-    background-color: white;
-    color: black;
-    cursor: pointer;
-}
-
-/* Organiza e da um espaçamento nas imagens do changemode */
+/* Centraliza e da um espaçamento nas imagens */
 .Thememode {
-    position: absolute;
     display: flex;
-    top: 10px;
-    right: 10px;
-    justify-content: flex-end;
-    align-items: flex-start;
-    gap: 5px;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    gap: 10px;
 }
 
 /* Tira os Botões padrões do radio */
@@ -78,8 +18,8 @@ input[type="radio"] {
 
 /* Ajusta o tamanho das imagens*/
 .radiolabel img {
-    width: 35px;
-    height: 35px;
+    width: 70px;
+    height: 70px;
     cursor: pointer; /* Quando colocar o mouse em cima, vira um ponteiro */
     transition: transform 0.2s ease-in-out;
 }
