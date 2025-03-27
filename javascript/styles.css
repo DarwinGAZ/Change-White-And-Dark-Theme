@@ -57,6 +57,7 @@ body {
     padding: 5px;
     background-color: white;
     color: black;
+    cursor: pointer;
 }
 
 /* Organiza e da um espaçamento nas imagens do changemode */
