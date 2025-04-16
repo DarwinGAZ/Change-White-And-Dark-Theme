@@ -18,4 +18,4 @@ Este projeto permite a alternância entre o tema claro e o tema escuro em uma p�
 1. **Clone o Repositório** 
    Clone este repositório para sua máquina:
    ```bash
-   git clone https://github.com/<seu-usuario>/Change-White-And-Dark_Theme.git
+   git clone https://github.com/DarwinGAZ/Change-White-And-Dark_Theme.git
