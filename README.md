@@ -4,7 +4,7 @@ Este projeto permite a alternância entre o tema claro e o tema escuro em uma p�
 
 ## 🚀 Acesse o projeto online
 
-🔗 [Clique aqui para testar](https://darwingaz.github.io/Password-Strenght/)
+🔗 [Clique aqui para testar](https://darwingaz.github.io/Change-White-And-Dark-Theme/)
 
 ## Funcionalidades ✨
 
