@@ -2,6 +2,10 @@
 
 Este projeto permite a alternância entre o tema claro e o tema escuro em uma página web, proporcionando uma experiência visual agradável ao usuário. O projeto utiliza HTML, CSS e JavaScript para alterar dinamicamente o estilo da página, dependendo da escolha do usuário.
 
+## 🚀 Acesse o projeto online
+
+🔗 [Clique aqui para testar](https://darwingaz.github.io/Password-Strenght/)
+
 ## Funcionalidades ✨
 
 - **Troca de Tema**: Alterna entre tema escuro e tema claro com um clique.
